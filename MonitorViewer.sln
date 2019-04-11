@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitorViewer", "MonitorViewer\MonitorViewer.csproj", "{989CAE2F-8D15-484B-8B0C-476281A1528A}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "NeoMonitorSetup", "NeoMonitorSetup\NeoMonitorSetup.vdproj", "{F2861636-45F6-4FFF-BFF1-71F2453402CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{989CAE2F-8D15-484B-8B0C-476281A1528A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{989CAE2F-8D15-484B-8B0C-476281A1528A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{989CAE2F-8D15-484B-8B0C-476281A1528A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2861636-45F6-4FFF-BFF1-71F2453402CE}.Debug|Any CPU.ActiveCfg = Debug
+		{F2861636-45F6-4FFF-BFF1-71F2453402CE}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MonitorViewer")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("NeoMonitor Viewer")]
+[assembly: AssemblyDescription("Allows to load, review and save monitor recordings.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("MonitorViewer")]
-[assembly: AssemblyCopyright("Copyright ©  2018")]
+[assembly: AssemblyCompany("Itay Asayag")]
+[assembly: AssemblyProduct("NeoMonitor Viewer")]
+[assembly: AssemblyCopyright("Copyright © Itay Asayag 2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
